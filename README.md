@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fthj41ymmh0351.gif](https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges/modules/398083399))](https://dev-celestial.io)
+![logo](https://github.com/dev-celestial/dev-celestial/blob/main/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
 <h1 align="center">Hi 👋, I'm SATYAM KUMAR (celestial)</h1>
 <h3 align="center">A passionate developer from India</h3>
