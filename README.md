@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/19_celestial" target="blank"><img src="https://img.shields.io/twitter/follow/19_celestial?logo=twitter&style=for-the-badge" alt="19_celestial" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Reactnative**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Android, Java**
+- 💬 Ask me about **MERN, Java**
 
 - 📫 How to reach me **workmail.celestial@gmail.com**
 
